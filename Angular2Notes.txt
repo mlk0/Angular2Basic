@@ -1,0 +1,22 @@
+AngularJs 2 Notes
+
+This was editedin vim
+
+create new file
+	type FileName.txt
+
+open the newly created file in vi editor
+	vi FileName.txt
+
+Once the file is loaded in vi editor, the vi is in command mode.
+In order to switch from command to insert mode, type i and start typing
+
+Saving with changes
+ESC + : 	this puts vi in command mode
+wq		save and quite
+
+Saving with discarding the changes
+ESC + :
+q!
+
+
