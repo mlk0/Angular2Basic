@@ -1,0 +1,24 @@
+{
+  "name": "angular2-quickstart",
+  "version": "1.2.3",
+  "description": "my first angular2 with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "ta2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlk0/Angular2Basic.git"
+  },
+  "keywords": [
+    "angular2",
+    "npm",
+    "javascript"
+  ],
+  "author": "m1k0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlk0/Angular2Basic/issues"
+  },
+  "homepage": "https://github.com/mlk0/Angular2Basic"
+}
