@@ -1,6 +1,6 @@
 AngularJs 2 Notes
 
-This was editedin vim
+This was edited in vim
 
 create new file
 	type FileName.txt
