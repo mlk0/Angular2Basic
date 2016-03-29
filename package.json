@@ -1,0 +1,38 @@
+{
+    "name": "angular2-quickstart",
+    "version": "1.0.0",
+    "description": "my first angular2 with npm",
+    "scripts": {
+        "start": "npm run lite",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mlk0/Angular2Basic.git"
+    },
+    "keywords": [
+        "angular2",
+        "npm",
+        "javascript"
+    ],
+    "author": "m1k0",
+    "license": "ISC",
+
+
+    "bugs": {
+        "url": "https://github.com/mlk0/Angular2Basic/issues"
+    },
+    "homepage": "https://github.com/mlk0/Angular2Basic",
+    "dependencies": {
+        "angular2": "2.0.0-beta.11",
+        "es6-promise": "^3.0.2",
+        "es6-shim": "^0.35.0",
+        "reflect-metadata": "0.1.2",
+        "rxjs": "5.0.0-beta.2",
+        "zone.js": "0.6.4"
+    },
+    "devDependencies": {
+        "concurrently": "^2.0.0",
+        "lite-server": "^2.1.0"
+    }
+}

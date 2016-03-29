@@ -1,0 +1,14 @@
+5 min quick start AngularJS 2 with JavaScript
+
+http://plnkr.co/
+This one is online editor for html, css and JavaScript
+
+npm package manager for NodeJS
+	makes easy sharing JavaScript code
+	good video for npm : https://docs.npmjs.com/getting-started/what-is-npm
+
+	installing - it is automatically being installed with NodeJs
+	npm -v 		prints the version
+	updating	npm insall npm -g
+
+
